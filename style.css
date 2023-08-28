@@ -1,0 +1,20 @@
+img{
+    display: block;
+    width: 500px;
+    height: 500px;
+    max-width: 100%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+}
+#outputImage{
+    margin: 5px;
+
+}
+#cropImage{
+    width: 90px;
+    height: 40px;
+}
